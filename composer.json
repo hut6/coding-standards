@@ -1,5 +1,5 @@
 {
-    "name": "hu6/coding-standards",
+    "name": "hut6/coding-standards",
     "description": "Coding standards support files for Hut6",
     "require": {
         "php": ">=5.3.0"
